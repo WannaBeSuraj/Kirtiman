@@ -1,0 +1,30 @@
+﻿# Node
+node_modules/
+
+# Next.js
+.next/
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Editor
+.vscode/
+.DS_Store
+
+# Build & test
+coverage/
+build.log
+
+# Backups & reports
+cleanup-backup-*
+playwright-report/
+test-results/
+
+# Netlify
+.netlify/
+
+# Misc
+npm-debug.log*
+yarn-error.log*

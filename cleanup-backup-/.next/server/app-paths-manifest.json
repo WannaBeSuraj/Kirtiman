@@ -1,0 +1,10 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/about-us/page": "app/about-us/page.js",
+  "/projects/page": "app/projects/page.js",
+  "/page": "app/page.js",
+  "/solutions/pipe-coating-solutions/page": "app/solutions/pipe-coating-solutions/page.js",
+  "/solutions/anticorrosive-coatings/page": "app/solutions/anticorrosive-coatings/page.js",
+  "/blog/page": "app/blog/page.js"
+}
